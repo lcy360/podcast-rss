@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Johnny的晨报</title>
+    <link>https://lcy360.github.io/podcast-rss/</link>
+    <description>每日全球市场情报与金融科技洞察，由 GTS Radar AI 生成</description>
+    <language>zh-CN</language>
+    <itunes:author>JohnnyMoving</itunes:author>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>JohnnyMoving</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://lcy360.github.io/podcast-rss/cover.jpg</url>
+      <title>Johnny的晨报</title>
+      <link>https://lcy360.github.io/podcast-rss/</link>
+    </image>
+    <!-- Episodes will be auto-inserted here by publish_podcast.js -->
+  </channel>
+</rss>
