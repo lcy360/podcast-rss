@@ -20,6 +20,19 @@
     </image>
     <!-- Episodes will be auto-inserted here by publish_podcast.js -->
     <item>
+      <title>2026-03-08 每日市场情报</title>
+      <description>2026-03-08 Daily Market Intelligence (每日市场情报)
+
+1. Title: Top Analyst Flags XRP, HBAR &amp; Ondo As “Generational” RWA Bet / 顶级分析师称 XRP、HBAR 和 Ondo 为“世代性”RWA 押注
+Source: DailyCoin
+摘要：分析师指出 XRP、HBAR 和 Ondo 在真实世界资产（RWA）代币化领域具有巨大潜力，认为这些资产将是未来全球金融转型的重要押注。
+ 核心洞察: RWA 赛道正在成为连接传统金融与加密资产的核心枢纽，这与 GTS 战略中关于资产链上化的长远...</description>
+      <pubDate>Sun, 08 Mar 2026 01:08:10 GMT</pubDate>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-08-1772932087547/2026-03-08_._2026-03-08.m4a" length="602684" type="audio/x-m4a"/>
+      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-08-1772932087547/2026-03-08_._2026-03-08.m4a</guid>
+      <itunes:duration>38</itunes:duration>
+    </item>
+    <item>
       <title>2026-03-07 每日市场情报</title>
       <description>2026-03-07 Daily Market Intelligence (每日市场情报)
 
