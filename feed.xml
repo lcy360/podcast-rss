@@ -20,6 +20,18 @@
     </image>
     <!-- Episodes will be auto-inserted here by publish_podcast.js -->
     <item>
+      <title>2026-03-09 Daily Market Intelligence (每日市场情报)</title>
+      <description>2026-03-09 Daily Market Intelligence (每日市场情报)
+
+1. Ondo Finance Secures Abu Dhabi Approval / Ondo Finance 获阿布扎比监管批准
+Source: AInvest / Ondo Finance
+Ondo Finance has received regulatory approval from the Abu Dhabi Global Market (ADGM) to offer tokenized stocks and ETFs, expanding its compliant RWA foot...</description>
+      <pubDate>Mon, 09 Mar 2026 00:17:15 GMT</pubDate>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-09-1773015430305/2026-03-09_Daily_Market_Intelligence__.__2026-03-09.wav" length="2550330" type="audio/wav"/>
+      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-09-1773015430305/2026-03-09_Daily_Market_Intelligence__.__2026-03-09.wav</guid>
+      <itunes:duration>159</itunes:duration>
+    </item>
+    <item>
       <title>2026-03-08 每日市场情报</title>
       <description>2026-03-08 Daily Market Intelligence (每日市场情报)
 
