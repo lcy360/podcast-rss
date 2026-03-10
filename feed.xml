@@ -20,6 +20,14 @@
     </image>
     <!-- Episodes will be auto-inserted here by publish_podcast.js -->
     <item>
+      <title>2026-03-10 Daily Market Intelligence (每日市场情报)</title>
+      <description>2026-03-10 每日全球市场情报：RWA代币化、稳定币支付、AI代理经济与宏观研判。</description>
+      <pubDate>Tue, 10 Mar 2026 03:06:18 GMT</pubDate>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-10-1773111939272/2026-03-10_Daily_Market_Intelligence.m4a" length="4750011" type="audio/mp4"/>
+      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-10-1773111939272/2026-03-10_Daily_Market_Intelligence.m4a</guid>
+      <itunes:duration>297</itunes:duration>
+    </item>
+    <item>
       <title>2026-03-09 Daily Market Intelligence (每日市场情报)</title>
       <description>2026-03-09 Daily Market Intelligence (每日市场情报)
 
