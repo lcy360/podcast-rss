@@ -5,7 +5,7 @@
   <channel>
     <title>Johnny的晨报</title>
     <link>https://lcy360.github.io/podcast-rss/</link>
-    <description>每日全球市场情报与金融科技洞察，由 GTS Radar AI 生成</description>
+    <description>每日全球市场情报与金融科技洞察，由 Johnny's Radar制作</description>
     <language>zh-CN</language>
     <itunes:author>JohnnyMoving</itunes:author>
     <itunes:category text="Business"/>
@@ -22,57 +22,9 @@
       <title>2026-03-12 Daily Market Intelligence (每日市场情报)</title>
       <description>2026-03-12 每日全球市场情报：RWA代币化股票爆发、AI Agent企业级落地、结算税重构与稳定币流入反弹。</description>
       <pubDate>Wed, 12 Mar 2026 10:53:50 GMT</pubDate>
-      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/2026-03-12/Daily_Morning_Briefing_2026-03-12.m4a" length="3595196" type="audio/mp4"/>
-      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/2026-03-12/Daily_Morning_Briefing_2026-03-12.m4a</guid>
-      <itunes:duration>269</itunes:duration>
-    </item>
-    <item>
-      <title>2026-03-10 Daily Market Intelligence (每日市场情报)</title>
-      <description>2026-03-10 每日全球市场情报：RWA代币化、稳定币支付、AI代理经济与宏观研判。</description>
-      <pubDate>Tue, 10 Mar 2026 03:06:18 GMT</pubDate>
-      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-10-1773111939272/2026-03-10_Daily_Market_Intelligence.m4a" length="4750011" type="audio/mp4"/>
-      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-10-1773111939272/2026-03-10_Daily_Market_Intelligence.m4a</guid>
-      <itunes:duration>297</itunes:duration>
-    </item>
-    <item>
-      <title>2026-03-09 Daily Market Intelligence (每日市场情报)</title>
-      <description>2026-03-09 Daily Market Intelligence (每日市场情报)
-
-1. Ondo Finance Secures Abu Dhabi Approval / Ondo Finance 获阿布扎比监管批准
-Source: AInvest / Ondo Finance
-Ondo Finance has received regulatory approval from the Abu Dhabi Global Market (ADGM) to offer tokenized stocks and ETFs, expanding its compliant RWA foot...</description>
-      <pubDate>Mon, 09 Mar 2026 00:17:15 GMT</pubDate>
-      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-09-1773015430305/2026-03-09_Daily_Market_Intelligence__.__2026-03-09.wav" length="2550330" type="audio/wav"/>
-      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-09-1773015430305/2026-03-09_Daily_Market_Intelligence__.__2026-03-09.wav</guid>
-      <itunes:duration>159</itunes:duration>
-    </item>
-    <item>
-      <title>2026-03-08 每日市场情报</title>
-      <description>2026-03-08 Daily Market Intelligence (每日市场情报)
-
-1. Title: Top Analyst Flags XRP, HBAR &amp; Ondo As "Generational" RWA Bet / 顶级分析师称 XRP、HBAR 和 Ondo 为"世代性"RWA 押注
-Source: DailyCoin
-摘要：分析师指出 XRP、HBAR 和 Ondo 在真实世界资产（RWA）代币化领域具有巨大潜力，认为这些资产将是未来全球金融转型的重要押注。
- 核心洞察: RWA 赛道正在成为连接传统金融与加密资产的核心枢纽，这与 GTS 战略中关于资产链上化的长远...</description>
-      <pubDate>Sun, 08 Mar 2026 01:08:10 GMT</pubDate>
-      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-08-1772932087547/2026-03-08_._2026-03-08.m4a" length="602684" type="audio/x-m4a"/>
-      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-08-1772932087547/2026-03-08_._2026-03-08.m4a</guid>
-      <itunes:duration>38</itunes:duration>
-    </item>
-    <item>
-      <title>2026-03-07 每日市场情报</title>
-      <description>2026-03-07 Daily Market Intelligence (每日市场情报)
-
-1. Tokenized RWAs Buck the Slump / 代币化 RWA 逆势增长
-Source: Cointelegraph
-
-在加密货币风险投资低迷的背景下，RWA（现实世界资产）代币化项目成为最大赢家。过去30天内，链上RWA市场增长了约13.5%，其中1inch与Ondo Finance的合作推动交易量突破25亿美元，显示出机构对链上收益产品的强劲需求。
-
- 核心洞察: RWA 正在从概念验证转向规模化应用，GTS 应关注 Ondo 等头部协议的流动性整合机会，尤其是在 DeFi ...</description>
-      <pubDate>Sat, 07 Mar 2026 10:46:29 GMT</pubDate>
-      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-07-1772880385807/2026-03-07_._2026-03-07.m4a" length="622567" type="audio/x-m4a"/>
-      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-07-1772880385807/2026-03-07_._2026-03-07.m4a</guid>
-      <itunes:duration>39</itunes:duration>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/2026-03-12/Daily_Morning_Briefing_2026-03-12_leda.m4a" length="592523" type="audio/mp4"/>
+      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/2026-03-12/Daily_Morning_Briefing_2026-03-12_leda.m4a</guid>
+      <itunes:duration>50</itunes:duration>
     </item>
   </channel>
 </rss>
