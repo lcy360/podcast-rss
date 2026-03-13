@@ -20,6 +20,14 @@
     </image>
     <item>
       <title>2026-03-13 Daily Market Intelligence (每日市场情报)</title>
+      <description>2026-03-13 每日全球市场情报：贝莱德BUIDL扩展、Ondo全球合作、SEC代币化新规、VARA发牌、Robinhood机构API、IBKR 24/5扩容、Revolut AI财富管理、LangChain多智能体、美联储按兵不动、稳定币流入创纪录。</description>
+      <pubDate>Fri, 13 Mar 2026 02:11:10 GMT</pubDate>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/2026-03-13/Daily_Morning_Briefing_2026-03-13.m4a" length="15896676" type="audio/mp4"/>
+      <guid isPermaLink="false">https://github.com/lcy360/podcast-rss/releases/download/2026-03-13/Daily_Morning_Briefing_2026-03-13.m4a</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>2026-03-13 Daily Market Intelligence (每日市场情报)</title>
       <description>2026-03-13 每日全球市场情报：RWA持续扩张、SEC评估代币化新规、Robinhood整合T+0结算、AI Agent企业级采用加速、美联储释放降息信号。</description>
       <pubDate>Fri, 13 Mar 2026 02:02:00 GMT</pubDate>
       <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/2026-03-13/Daily_Morning_Briefing_2026-03-13_leda.m4a" length="3416751" type="audio/mp4"/>
