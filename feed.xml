@@ -19,6 +19,14 @@
       <link>https://lcy360.github.io/podcast-rss/</link>
     </image>
     <item>
+      <title>2026-03-26 Daily Market Intelligence (每日市场情报)</title>
+      <description>2026-03-26 每日全球市场情报：美国代币化证券听证会、SEC稳定币监管指南、BlackRock BUIDL新链扩展、Ondo Finance链上信贷、Robinhood期权平台扩张、IBKR加密交易扩展、Revolut银行牌照推进、LangChain MCP协议升级、美联储降息预期升温、全球稳定币市值突破2200亿美元。</description>
+      <pubDate>Thu, 26 Mar 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lcy360/podcast-rss/releases/download/ep-2026-03-26-1774508351714/2026-03-26_Daily_Morning_Briefing.mp3" length="4943232" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-2026-03-26-daily-briefing</guid>
+      <itunes:duration>308</itunes:duration>
+    </item>
+    <item>
       <title>2026-03-13 Daily Market Intelligence (每日市场情报)</title>
       <description>2026-03-13 每日全球市场情报：贝莱德BUIDL扩展、Ondo全球合作、SEC代币化新规、VARA发牌、Robinhood机构API、IBKR 24/5扩容、Revolut AI财富管理、LangChain多智能体、美联储按兵不动、稳定币流入创纪录。</description>
       <pubDate>Fri, 13 Mar 2026 02:11:10 GMT</pubDate>
